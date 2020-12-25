@@ -1,1 +1,1 @@
-# MyKaggleProject
+# MyProject
